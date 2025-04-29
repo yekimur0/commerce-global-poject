@@ -432,6 +432,7 @@ a {
   -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
   gap: clamp(35px, 4vw, 75px);
+  align-items: center;
 }
 @media (max-width: 1200px) {
   .hero__content {
